@@ -1,4 +1,4 @@
-# 🛡️ Cloud Security Project — SOC Infrastructure
+  # 🛡️ Cloud Security Project — SOC Infrastructure
 
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 ![Platform](https://img.shields.io/badge/Cloud-AWS-orange)
@@ -218,4 +218,3 @@ hardened kernel parameters, applied CIS remediation steps.
 
 *Code Academy — Final Cybersecurity Project*
 *Cloud Security Infrastructure on AWS • calaris.online*
-```
