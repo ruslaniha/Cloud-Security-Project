@@ -216,7 +216,9 @@ hardened kernel parameters, applied CIS remediation steps.
 
 ---
 
-[📄 View Project PDF](./Cloud%20Security%20Project.pdf)
+## 📄 Project Documentation
+
+[📎 View Full Project PDF](./Cloud%20Security%20Project.pdf)
 
 *Code Academy — Final Cybersecurity Project*
 *Cloud Security Infrastructure on AWS • calaris.online*
